@@ -1,7 +1,7 @@
 ### GitLqr 👋
 
 <p>
-<img align="right" height="170" width="170" src="https://cdn.jsdelivr.net/gh/FullStackAction/PicBed@resource/image/20210110171035.png" />
+<img align="right" height="160" width="160" src="https://cdn.jsdelivr.net/gh/FullStackAction/PicBed@resource/image/20210110171035.png" />
 
 Hi，我是 `GitLqr`，一位努力想成为全栈工程师的Android开发者。😃
 
@@ -14,9 +14,13 @@ Hi，我是 `GitLqr`，一位努力想成为全栈工程师的Android开发者�
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GitLqr&langs_count=10&layout=compact)](https://github.com/GitLqr)
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=GitLqr&show_icons=true" />
+<div style="display:flex; flex-direction:row; justify-content:space-around;">
+<img height="190" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GitLqr&langs_count=10&layout=compact" />
+<img height="190" align="right" src="https://github-readme-stats.vercel.app/api?username=GitLqr&show_icons=true" />
+</div>
+
+
 
 <!--
 **GitLqr/GitLqr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
