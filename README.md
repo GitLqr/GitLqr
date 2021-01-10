@@ -16,8 +16,8 @@ Hi，我是 `GitLqr`，一位努力想成为全栈工程师的Android开发者�
 
 
 <div style="display:flex; flex-direction:row; justify-content:space-around;">
-<img height="190" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GitLqr&langs_count=10&layout=compact" />
-<img height="190" align="right" src="https://github-readme-stats.vercel.app/api?username=GitLqr&show_icons=true" />
+<img height="190" src="https://github-readme-stats.vercel.app/api?username=GitLqr&show_icons=true" />
+<img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GitLqr&langs_count=10&layout=compact" />
 </div>
 
 
