@@ -9,8 +9,11 @@ Hi，我是 `GitLqr`，一位努力想成为全栈工程师的Android开发者�
 
 所以，从 2021 年起，我打算将所学的知识进行整理记录，汇总到[【FSA全栈行动】](https://fullstackaction.com/)博客网站上。👽
 
-同时，我也会在同名微信公众号[【FSA全栈行动】](https://cdn.jsdelivr.net/gh/FullStackAction/PicBed@resource/image/20210110171035.png)上不定期同步文章 📖 ，欢迎订阅公众号。 🎉
+同时，我也会在同名微信公众号[【FSA全栈行动】](https://cdn.jsdelivr.net/gh/FullStackAction/PicBed@resource/image/20210131111432.png)上不定期同步文章 📖 ，欢迎订阅公众号。 🎉
 
+<!--
+https://cdn.jsdelivr.net/gh/FullStackAction/PicBed@resource/image/20210110171035.png
+-->
 
 ---
 
