@@ -23,9 +23,11 @@ https://cdn.jsdelivr.net/gh/FullStackAction/PicBed@resource/image/20210110171035
 <img height="190" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GitLqr&langs_count=10&layout=compact" />
 </div>
 
+<div>
 ![Account](https://img.shields.io/badge/微信公众号-全栈行动-brightgreen)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=GitLqr.GitLqr)
-
+</div>
+  
 <!--
 **GitLqr/GitLqr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
