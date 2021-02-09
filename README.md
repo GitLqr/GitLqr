@@ -1,7 +1,7 @@
 <div style="display:flex;flex-direction:row;justify-content: space-between;align-items: center;">
   <h3 style="display:inline-block">GitLqr 👋 </h3>
   <div style="display: flex;align-items: center;">
-      <img src="https://img.shields.io/badge/微信公众号-全栈行动-brightgreen"/>
+      <img src="https://img.shields.io/badge/微信公众号-FSA全栈行动-brightgreen"/>
       <img src="https://visitor-badge.glitch.me/badge?page_id=GitLqr.GitLqr"/>
   </div>
 </div>
