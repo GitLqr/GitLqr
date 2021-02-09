@@ -1,4 +1,10 @@
-### GitLqr 👋 ![Account](https://img.shields.io/badge/微信公众号-全栈行动-brightgreen) ![visitors](https://visitor-badge.glitch.me/badge?page_id=GitLqr.GitLqr)
+<div style="display:flex;flex-direction:row;justify-content: space-between;align-items: center;">
+  <h3 style="display:inline-block">GitLqr 👋 </h3>
+  <div style="display: flex;align-items: center;">
+      <img src="https://img.shields.io/badge/微信公众号-全栈行动-brightgreen"/>
+      <img src="https://visitor-badge.glitch.me/badge?page_id=GitLqr.GitLqr"/>
+  </div>
+</div>
 
 <p>
 <img align="right" height="160" width="160" src="https://cdn.jsdelivr.net/gh/FullStackAction/PicBed@resource/image/20210110171035.png" />
@@ -14,6 +20,7 @@ Hi，我是 `GitLqr`，一位努力想成为全栈工程师的Android开发者�
 <!--
 https://cdn.jsdelivr.net/gh/FullStackAction/PicBed@resource/image/20210110171035.png
 -->
+</p>
 
 ---
 
