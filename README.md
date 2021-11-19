@@ -1,21 +1,24 @@
 <div style="display:flex;flex-direction:row;justify-content: space-between;align-items: center;">
   <h3 style="display:inline-block">GitLqr 👋 </h3>
   <div style="display: flex;align-items: center;">
+      <img src="https://img.shields.io/badge/微信小程序-超级便便便-blue"/>
       <img src="https://img.shields.io/badge/微信公众号-FSA全栈行动-brightgreen"/>
-      <img src="https://visitor-badge.glitch.me/badge?page_id=GitLqr.GitLqr"/>
+      <img src="https://visitor-badge.glitch.me/badge?page_id=GitLqr.GitLqr&left_color=grey&right_color=red"/>
   </div>
 </div>
 
 <p>
 <img align="right" height="160" width="160" src="https://cdn.jsdelivr.net/gh/FullStackAction/PicBed@resource/image/20210110171035.png" />
+<img align="right" height="160" width="160" src="https://cdn.jsdelivr.net/gh/FullStackAction/PicBed@resource20210320170901/image/202111192145352.png" />
 
-Hi，我是 `GitLqr`，一位努力想成为全栈工程师的Android开发者。😃
+Hi，我是 `GitLqr` 😃
 
-过去的 2020 年让我充了很久的电，可发现我学了那么多，用的却很少，久而久之就会忘掉。😳
+一位努力想成为全栈工程师的Android开发者 😁
+  
+微信小程序📱[【超级便便便】](https://cdn.jsdelivr.net/gh/FullStackAction/PicBed@resource20210320170901/image/202111181957230.jpg)提供外卖红包、吉日预测功能，欢迎使用 🤙
 
-所以，从 2021 年起，我打算将所学的知识进行整理记录，汇总到[【FSA全栈行动】](https://fullstackaction.com/)博客网站上。👽
+微信公众号📗[【FSA全栈行动】](https://cdn.jsdelivr.net/gh/FullStackAction/PicBed@resource/image/20210131111432.png)上不定期更新文章 📖 ，欢迎订阅公众号 👍
 
-同时，我也会在同名微信公众号[【FSA全栈行动】](https://cdn.jsdelivr.net/gh/FullStackAction/PicBed@resource/image/20210131111432.png)上不定期同步文章 📖 ，欢迎订阅公众号。 🎉
 
 <!--
 https://cdn.jsdelivr.net/gh/FullStackAction/PicBed@resource/image/20210110171035.png
@@ -32,6 +35,8 @@ https://cdn.jsdelivr.net/gh/FullStackAction/PicBed@resource/image/20210110171035
 
   
 <!--
+https://github.com/ewfian/How-to-create-newline-in-Github-Bio
+https://copychar.cc/emoji/
 **GitLqr/GitLqr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
