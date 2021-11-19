@@ -9,7 +9,7 @@
 
 <p>
 <img align="right" height="160" width="160" src="https://cdn.jsdelivr.net/gh/FullStackAction/PicBed@resource/image/20210110171035.png" />
-<img align="right" height="160" width="160" src="https://cdn.jsdelivr.net/gh/FullStackAction/PicBed@resource20210320170901/image/202111192145352.png" />
+<img align="right" height="160" width="160" src="https://cdn.jsdelivr.net/gh/FullStackAction/PicBed@resource20210320170901/image/202111192206468.png" />
 
 Hi，我是 `GitLqr` 😃
 
