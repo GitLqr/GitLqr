@@ -25,14 +25,14 @@ https://cdn.jsdelivr.net/gh/FullStackAction/PicBed@resource/image/20210110171035
 -->
 </p>
 
+<!-- 
 ---
-
 
 <div style="display:flex; flex-direction:row; justify-content:space-around;">
 <img height="180" align="left" src="https://github-readme-stats.vercel.app/api?username=GitLqr&show_icons=true" />
 <img height="180" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GitLqr&langs_count=10&layout=compact" />
 </div>
-
+ -->
   
 <!--
 https://github.com/ewfian/How-to-create-newline-in-Github-Bio
