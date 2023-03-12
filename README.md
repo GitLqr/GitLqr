@@ -9,16 +9,15 @@
 
 <p>
 <img align="right" height="160" width="160" src="https://cdn.jsdelivr.net/gh/FullStackAction/PicBed@resource/image/20210110171035.png" />
-<img align="right" height="160" width="160" src="https://cdn.jsdelivr.net/gh/FullStackAction/PicBed@resource20210320170901/image/202111192206468.png" />
+<!-- <img align="right" height="160" width="160" src="https://cdn.jsdelivr.net/gh/FullStackAction/PicBed@resource20210320170901/image/202111192206468.png" /> -->
 
 Hi，我是 `GitLqr` 😃
 
 一位努力想成为全栈工程师的Android开发者 😁
-  
-<!-- 微信小程序📱[【超级便便便】](https://cdn.jsdelivr.net/gh/FullStackAction/PicBed@resource20210320170901/image/202111181957230.jpg)提供外卖红包、吉日预测功能，欢迎使用 🤙 -->
 
 微信公众号📗[【FSA全栈行动】](https://cdn.jsdelivr.net/gh/FullStackAction/PicBed@resource/image/20210131111432.png)上不定期更新文章 📖 ，欢迎订阅公众号 👍
-
+  
+微信小程序📱[【超级便便便】](https://cdn.jsdelivr.net/gh/FullStackAction/PicBed@resource20210320170901/image/202111181957230.jpg)提供外卖红包、吉日预测功能，欢迎使用 🤙
 
 <!--
 https://cdn.jsdelivr.net/gh/FullStackAction/PicBed@resource/image/20210110171035.png
