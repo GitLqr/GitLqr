@@ -15,7 +15,7 @@ Hi，我是 `GitLqr` 😃
 
 一位努力想成为全栈工程师的Android开发者 😁
 
-个人博客📖[【掘金】](https://juejin.cn/user/2770425030646920)、[【CSDN】](https://blog.csdn.net/CSDN_LQR) 记录了我的学习总结与踩坑经验 😼
+个人博客📖[【CSDN】](https://blog.csdn.net/CSDN_LQR)、[【掘金】](https://juejin.cn/user/2770425030646920) 记录了我的学习总结与踩坑经验 😼
 
 微信公众号📗[【FSA全栈行动】](https://cdn.jsdelivr.net/gh/FullStackAction/PicBed@resource/image/20210131111432.png) 上不定期更新文章，欢迎订阅公众号 👍
 
